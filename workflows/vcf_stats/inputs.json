@@ -1,0 +1,5 @@
+{
+  "calculate_vcf_stats.vcf_url": "drs://viral.ai/Ya2X-00000345-73aa-4eb0-ac81-ab6470cc6759",
+  "calculate_vcf_stats.dnastack_drs_url": "https://viral.ai/",
+  "calculate_vcf_stats.container_registry": "gcr.io/dnastack-pub-container-store"
+}
